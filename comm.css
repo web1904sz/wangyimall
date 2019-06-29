@@ -1,0 +1,22 @@
+.my_pro_header{
+    width:100%;
+    background: #242424;
+    height:6rem;
+}
+.my_pro_footer{
+    width: 100%;
+    background: #242424;
+    height: 15rem;
+    box-sizing: border-box;
+}
+.my_pro_main{
+    width: 100%;
+}
+.my_pro_header_ul>li a{
+    color: white;
+    font-size:16px;
+    text-decoration: none;
+    padding: 4px 4px;
+    margin: 0px 2px;
+}
+
